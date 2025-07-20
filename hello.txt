@@ -1,3 +1,7 @@
 Hello world!
 
+<<<<<<< HEAD
 Hello from local
+=======
+Hello from Github
+>>>>>>> 49a15f7db7d1eed1aa06bd76511ae81c5cf2fc68
